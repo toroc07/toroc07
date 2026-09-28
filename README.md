@@ -43,14 +43,14 @@ Construyo herramientas que convierten datos en decisiones — desde asistentes d
 <img src="https://github-readme-stats-psi-amber-29.vercel.app/api?username=toroc07&show_icons=true&theme=dark&title_color=FF6B6B&icon_color=C1121F&text_color=c9d1d9&bg_color=0D1117&border_color=30363D" height="165" />
 <img src="https://github-readme-stats-psi-amber-29.vercel.app/api/top-langs/?username=toroc07&layout=compact&theme=dark&title_color=FF6B6B&text_color=c9d1d9&bg_color=0D1117&border_color=30363D" height="165" />
 
+<br/>
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=toroc07&theme=dark&background=0D1117&ring=C1121F&fire=FF6B6B&currStreakLabel=FF6B6B&border=30363D" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toroc07&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=C1121F&point=FFAAAA&area=true&hide_border=true" width="100%" />
+<br/>
+<br/>
 
-</div>
-
-<div align="center">
-
-⭐ Gracias por pasar por aquí
+<img src="https://github-readme-activity-graph-blush-eta.vercel.app/graph?username=toroc07&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=C1121F&point=FFAAAA&area=true&hide_border=true" width="100%" />
 
 </div>
