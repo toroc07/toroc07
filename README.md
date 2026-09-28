@@ -30,9 +30,9 @@ Construyo herramientas que convierten datos en decisiones — desde asistentes d
 
 <div align="center">
 
-<a href="https://github.com/toroc07/ai-jarvis-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=toroc07&repo=ai-jarvis-assistant&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117" /></a>
-<a href="https://github.com/toroc07/huya-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=toroc07&repo=huya-web&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117" /></a>
-<a href="https://github.com/toroc07/sincro-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=toroc07&repo=sincro-app&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117" /></a>
+<a href="https://github.com/toroc07/ai-jarvis-assistant"><img src="https://github-readme-stats-psi-amber-29.vercel.app/api/pin/?username=toroc07&repo=ai-jarvis-assistant&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117" /></a>
+<a href="https://github.com/toroc07/huya-web"><img src="https://github-readme-stats-psi-amber-29.vercel.app/api/pin/?username=toroc07&repo=huya-web&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117" /></a>
+<a href="https://github.com/toroc07/NEOs-Analysis"><img src="https://github-readme-stats-psi-amber-29.vercel.app/api/pin/?username=toroc07&repo=NEOs-Analysis&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117" /></a>
 
 </div>
 
@@ -40,8 +40,8 @@ Construyo herramientas que convierten datos en decisiones — desde asistentes d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=toroc07&show_icons=true&theme=dark&title_color=FF6B6B&icon_color=C1121F&text_color=c9d1d9&bg_color=0D1117&border_color=30363D" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toroc07&layout=compact&theme=dark&title_color=FF6B6B&text_color=c9d1d9&bg_color=0D1117&border_color=30363D" height="165" />
+<img src="https://github-readme-stats-psi-amber-29.vercel.app/api?username=toroc07&show_icons=true&theme=dark&title_color=FF6B6B&icon_color=C1121F&text_color=c9d1d9&bg_color=0D1117&border_color=30363D" height="165" />
+<img src="https://github-readme-stats-psi-amber-29.vercel.app/api/top-langs/?username=toroc07&layout=compact&theme=dark&title_color=FF6B6B&text_color=c9d1d9&bg_color=0D1117&border_color=30363D" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=toroc07&theme=dark&background=0D1117&ring=C1121F&fire=FF6B6B&currStreakLabel=FF6B6B&border=30363D" />
 
