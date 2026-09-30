@@ -30,9 +30,9 @@ Construyo herramientas que convierten datos en decisiones — desde asistentes d
 
 <div align="center">
 
-<a href="https://github.com/toroc07/ai-jarvis-assistant"><img src="https://github-readme-stats-psi-amber-29.vercel.app/api/pin/?username=toroc07&repo=ai-jarvis-assistant&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117" /></a>
-<a href="https://github.com/toroc07/huya-web"><img src="https://github-readme-stats-psi-amber-29.vercel.app/api/pin/?username=toroc07&repo=huya-web&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117" /></a>
-<a href="https://github.com/toroc07/NEOs-Analysis"><img src="https://github-readme-stats-psi-amber-29.vercel.app/api/pin/?username=toroc07&repo=NEOs-Analysis&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117" /></a>
+<a href="https://github.com/toroc07/ai-jarvis-assistant"><img src="https://github-readme-stats-psi-amber-29.vercel.app/api/pin/?username=toroc07&repo=ai-jarvis-assistant&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117&cache_seconds=1800&v=2" /></a>
+<a href="https://github.com/toroc07/huya-web"><img src="https://github-readme-stats-psi-amber-29.vercel.app/api/pin/?username=toroc07&repo=huya-web&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117&cache_seconds=1800" /></a>
+<a href="https://github.com/toroc07/NEOs-Analysis"><img src="https://github-readme-stats-psi-amber-29.vercel.app/api/pin/?username=toroc07&repo=NEOs-Analysis&theme=dark&title_color=FF6B6B&icon_color=C1121F&border_color=C1121F&bg_color=0D1117&cache_seconds=1800&v=2" /></a>
 
 </div>
 
